@@ -23,15 +23,20 @@ Soy estudiante de Ingeniería de Sistemas con pasión por la tecnología, el des
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 🎓 **Estudiante** de la carrera de Ingeniería de Sistemas e Informática, actualmente cursando el 8vo ciclo  
-- 🚀 Interesado en aprender más sobre **Desarrollo Web** y **Seguridad Informatica**  
-- 📚 En constante aprendizaje y explorando nuevas tecnologías   
+- 🎓 **Estudiante** de la carrera de Ingeniería de Sistemas e Informática, actualmente cursando el 8vo ciclo
+  
+- 🚀 Interesado en aprender más sobre **Desarrollo Web** y **Seguridad Informatica**
+  
+- 📚 En constante aprendizaje y explorando nuevas tecnologías
+  
 - 📬 No dudes en **contactarme** para colaborar o compartir ideas **sciezauribe@gmail.com**
+  
 - 📱 **975047816**
+  
 - 🌟 Siempre creo que *"La mejor forma de aprender es haciendo"*
 
 <br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🛠️ Mis Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
@@ -74,9 +79,8 @@ Soy estudiante de Ingeniería de Sistemas con pasión por la tecnología, el des
 
 <br>
 
-</div>
 
-<!--horizontal divider(gradiant)-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
------------
+
