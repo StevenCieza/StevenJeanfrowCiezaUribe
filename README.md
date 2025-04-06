@@ -79,8 +79,4 @@ Soy estudiante de Ingeniería de Sistemas con pasión por la tecnología, el des
 
 <br>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
